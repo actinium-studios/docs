@@ -16,3 +16,4 @@
 
 # Actinium
 - [Getting Started](./Actinium/gettingStarted.md)
+- [Comparison](./Actinium/comparison.md)
