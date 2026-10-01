@@ -1,5 +1,5 @@
 # docs
-Official Syrup Studios Docs
+Official Actinium Studios Docs
 
 
 # How to setup 

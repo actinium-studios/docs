@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to the Syrup Studios Docs!
+# Welcome to the Actinium Studios Docs!
 
 </div>
 
